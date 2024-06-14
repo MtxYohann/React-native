@@ -41,6 +41,15 @@ export default function TabLayout() {
                         <Fontawesome color={color} name="smile-o" />
                     ),
                 }}
+            />
+            <Tabs.Screen
+                name="camera"
+                options={{
+                    title: "Camera",
+                    tabBarIcon: ({ color }) => (
+                        <Fontawesome color={color} name="camera" />
+                    ),
+                }}
             />           
         </Tabs>
     );

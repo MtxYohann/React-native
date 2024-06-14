@@ -1,4 +1,33 @@
-# React Native
+## Description 
+Ce projet est m'a première application mobile, le but premier étant d'apprendre à utiliser expo react native j'ai créé une application vitrine pour une association 
+avec plusieurs fonctionnalité.
+
+## Fonctionnalités
+
+Image splash au lancement, bar de navigation, bouton de navigation ainsi qu’un bouton don relié à paypal, utilisation de la caméra et possibilité de lire un code bar
+
+
+## Installation
+
+1. Cloner le dépôt
+
+```bash
+https://github.com/MtxYohann/React-native.git
+```
+
+2. Installer les dépendances
+
+```bash
+npx expo install
+```
+
+3. Lancer l'application
+
+```bash
+npx expo start
+```
+
+## Cours React Native
 
 ## Obejctif
 
